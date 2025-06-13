@@ -27,7 +27,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [My Solution](https://github.com/Banini-AD/Social-links)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://social-links-gamma-rose.vercel.app/)
 
 ## My process
 
