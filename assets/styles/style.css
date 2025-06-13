@@ -123,6 +123,7 @@ article {
   justify-content: center;
   align-items: center;
   margin: 0 auto;
+  width: 100%;
   border-radius: 0.3rem;
   -webkit-border-radius: 0.3rem;
   -moz-border-radius: 0.3rem;
@@ -131,6 +132,7 @@ article {
 }
 
 .nav-link-btn{
+  width: 100%;
   color: var(--white);
   font-weight: var(--bold);
   font-size: 1rem;
