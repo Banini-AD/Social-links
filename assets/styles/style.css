@@ -149,7 +149,9 @@ article {
   -o-border-radius: 0.3rem;
   border: none;
 }
-
+.nav-link-btn > a {
+  text-align: center;
+}
 .nav-link-btn:hover{
   color: var(--grey-800);
   background-color: var(--green);
