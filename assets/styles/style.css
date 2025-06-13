@@ -112,6 +112,8 @@ article {
 .user-links-box {
   flex: 5.5;
   display: flex;
+  align-items: center;
+  justify-content: center;
   flex-direction: column;
   gap: 0.7rem;
 }
